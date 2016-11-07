@@ -12,3 +12,6 @@ Ubuntu 與Debian類似，使用 apt-get 來下載、管理、更新套件(Packag
 ```sudo apt-get update``` 可以同步套件資料庫，使本機與遠端repository 同步，讓電腦了解是否有需要更新的套件。
 ```sudo apt-get upgrade``` 根據本機的套件資料庫，尋找可更新的套件並更新之。
 ```sudo apt-get dist-upgrade```可以聰明地解決一些相依性問題，但是變動較大，更新時要特別注意它會改些什麼。不建議新手使用。
+關於sudo，簡單來說，使用sudo 即是使用管理員權限執行某些指令，所以當它要求輸入密碼時，盲打後按下Enter 即可。
+
+
