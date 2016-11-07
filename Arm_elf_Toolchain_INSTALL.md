@@ -11,7 +11,7 @@
 ![](29.PNG)
 ## 5. 設定arm-elf-* 的$PATH 環境變數
 ###臨時：
-```PATH=$PATH:你的arm-elf-*所在路徑，就是foo/bin的路徑```
+PATH=$PATH:foo/bin的路徑
 ###登入時自動設定：
 打開編輯器，編輯 ```~/.bashrc```
 <br/>例：<br/>
