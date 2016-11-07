@@ -1,9 +1,9 @@
 # 第一章：安裝Ubuntu
 
-可以使用Virtual Box 在不同的作業系統上，使用獨立的Linux 環境，在這裡介紹Ubuntu 在Virtual Box 裡的安裝過程。
+可以使用VirtualBox 在不同的作業系統上，使用獨立的Linux 環境，在這裡介紹Ubuntu 在VirtualBox 裡的安裝過程。
 
 
-## 安裝Virtual Box：
+## 安裝VirtualBox：
 
 ### 下載
 
@@ -12,13 +12,16 @@
 ![](擷取.PNG)
 選擇要使用的作業系統版本，[點擊](http://download.virtualbox.org/virtualbox/5.1.8/VirtualBox-5.1.8-111374-Win.exe)下載。
 
-### 安裝
-![![![![![](05.PNG)](04.PNG)](03.PNG)](02.PNG)](01.PNG)
+### 安裝VirtualBox
 
+![](01.PNG)
+![](02.PNG)
+![](03.PNG)
+![](04.PNG)
+![](05.PNG)
 
-
-
-
+## 在VirtualBox 上安裝Ubuntu 16.04
+到 [https://www.ubuntu.com/](https://www.ubuntu.com/) 下載最新的Ubuntu (現在是16.04)。
 
 
 
