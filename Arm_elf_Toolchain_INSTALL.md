@@ -6,5 +6,6 @@
 ```tar zxvf $(剛剛下載的檔案) ```<br/>解壓縮後會產生一個**"foo"**資料夾
 ![](28.PNG)
 ## 3. 安裝一些相依的套件(重要)
-
+```sudo apt-get install libtk8.5 itcl3 itk3 iwidgets4```
+## 4. 測試arm-elf-insight 是否可以執行
 
