@@ -17,7 +17,6 @@
 ![](01.PNG)
 
 ## 在VirtualBox 上新增虛擬機器：
-到 [https://www.ubuntu.com/](https://www.ubuntu.com/) 下載最新的Ubuntu (現在是16.04)。
 
 ### 新增一個虛擬機器
 ![](06.PNG)
