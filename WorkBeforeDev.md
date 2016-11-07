@@ -2,7 +2,7 @@
 
 ## 1. 安裝 build-essential 套件
 ```sudo apt-get install build-essential```<br/>
-build-essential 題供了基本的make 與 gcc、g++ 等工具，對於C/C++ 有需求的人，或是有手動編譯Tarball 的人，這個套件必裝。
+build-essential 題供了基本的make 與 gcc、g++ 等工具，對於C/C++ 有需求的人，或是有手動編譯Tarball 需求的人，這個套件必裝。
 ## 2. (Optional) 安裝Cmake、Automake、Autoconf 等套件
 ```sudo apt-get install cmake automake autoconf ```
 ## 3. (Optional) 安裝 OpenJDK
