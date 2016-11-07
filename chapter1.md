@@ -12,7 +12,7 @@
 ![](擷取.PNG)
 選擇要使用的作業系統版本，[點擊](http://download.virtualbox.org/virtualbox/5.1.8/VirtualBox-5.1.8-111374-Win.exe)下載。
 
-### 安裝VirtualBox
+### 安裝
 
 ![](01.PNG)
 
