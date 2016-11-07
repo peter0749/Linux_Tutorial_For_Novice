@@ -20,3 +20,9 @@
 編輯模式中：**Ctrl + X + N** 可以自動補完<br/>
 **gg=G：**自動排版<br/>
 
+推薦自動補完插件(for C/C++)：<br/>
+[https://github.com/Rip-Rip/clang_complete](https://github.com/Rip-Rip/clang_complete)
+推薦VIM插件管理系統：<br/>
+[https://github.com/VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+.vimrc範例：<br/>
+[https://github.com/peter0749/Vimrc/blob/master/vimrc.txt](https://github.com/peter0749/Vimrc/blob/master/vimrc.txt)
