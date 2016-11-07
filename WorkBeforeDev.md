@@ -9,7 +9,9 @@ build-essential 題供了基本的make 與 gcc、g++ 等工具，對於C/C++ 有
 從 **"Additional Driver"** 裡面找到專有驅動程式，依照你的需求並安裝之 (需要重新開機)。
 ## 4. 安裝中文輸入法
 推薦 **"hime"** 輸入法，與gcin類似。<br/>
-```sudo apt-get install hime```
+```sudo apt-get install hime```<br/>
+在 **"系統設定"->"語言支援"** 裡將hime 選為預設輸入法，其間可能會提示更新語系包，照步驟更新即可。
+
 
 
 
