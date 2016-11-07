@@ -5,4 +5,5 @@
 * [第二章：安裝Ubuntu](Ubuntu_Install.md)
 * [第三章：安裝好系統後的第一步](First_Step.md)
 * [第四章：基本開發環境建置](WorkBeforeDev.md)
+* 第五章：安裝組語需要的Toolchains (Easy way)
 
