@@ -17,4 +17,11 @@ Ubuntu 與Debian類似，使用 apt-get 來下載、管理、更新套件(Packag
 在文字介面中，<br/><br/>
 ```sudo apt-cache search```<br/><br/>
 可以搜尋特定名稱的套件，可以結合```grep``` 對結果做進一步篩選。
-
+## (Optional)安裝SSH，方便日後登入、傳檔案，免架FTP、免安裝VirtualBox Guest Tools
+取得 SSH套件:<br/><br/>```sudo apt-get install ssh```<br/><br/>
+安裝好後，之後系統開機，會自動啟動SSH 服務(daemon)，我們可以對VirtualBox 做一些設定。(Tricks)
+### 設定NAT port forwarding 
+#### 1. 設定轉送
+![](22.PNG)
+![](23.PNG)
+![](24.PNG)
