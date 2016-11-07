@@ -25,3 +25,7 @@ Ubuntu 與Debian類似，使用 apt-get 來下載、管理、更新套件(Packag
 ![](22.PNG)
 ![](23.PNG)
 ![](24.PNG)
+#### 2. WHOA-LA!!!
+![](25.PNG)
+![](26.PNG)
+![](27.PNG)
