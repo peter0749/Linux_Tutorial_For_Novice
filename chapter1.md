@@ -9,7 +9,7 @@
 
 
 最新的Virtual Box 可以在 [https://www.virtualbox.org/](https://www.virtualbox.org/) 取得，
-![](擷取.PNG)
+![](00.PNG)
 選擇要使用的作業系統版本，[點擊](http://download.virtualbox.org/virtualbox/5.1.8/VirtualBox-5.1.8-111374-Win.exe)下載。
 
 ### 安裝
