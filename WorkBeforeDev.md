@@ -13,7 +13,7 @@ build-essential 題供了基本的make 與 gcc、g++ 等工具，對於C/C++ 有
 推薦 **"hime"** 輸入法，與gcin類似。<br/>
 ```sudo apt-get install hime```<br/>
 在 **"系統設定"->"語言支援"** 裡將hime 選為預設輸入法，其間可能會提示更新語系包，照步驟更新即可。
-## 5. 安裝wget 語 curl 作為下載工具
+## 5. 安裝wget 與 curl 作為下載工具
 ```sudo apt-get install wget curl```<br/>
 可以使用wget 與 curl 在終端機中下載網路上的檔案。
 例：<br/><br/>```wget 你的連結``` <br/>或是 <br/>```curl 你的連結 -o 下載檔案目的地```
