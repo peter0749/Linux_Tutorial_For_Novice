@@ -18,7 +18,7 @@ PATH=$PATH:foo/bin的路徑
 ```vim ~/.bashrc```<br/>
 在檔案最尾端加入：<br/>
 ```export PATH=$PATH:你的foo/bin路徑```<br/>
-編輯完後重新開啟終端機，重新連線SSH。
+編輯完後重新開啟終端機，或重新連線SSH。
 ## 6. It works like a charm ;)
 輸入 ```arm-elf-``` 並按下```tab``` 試試看
 ![](30.PNG)
