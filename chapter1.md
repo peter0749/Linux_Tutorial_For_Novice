@@ -1,4 +1,4 @@
-# 第一章：安裝Ubuntu
+# 第一章：使用VirtualBox 安裝Ubuntu
 
 可以使用VirtualBox 在不同的作業系統上，使用獨立的Linux 環境，在這裡介紹Ubuntu 在VirtualBox 裡的安裝過程。
 
@@ -21,6 +21,9 @@
 
 ### 新增一個虛擬機器
 ![](06.PNG)
-![![![![![![](12.PNG)](11.PNG)](10.PNG)](09.PNG)](08.PNG)](07.PNG)
-
-
+![](07.PNG)
+![](08.PNG)
+![](09.PNG)
+![](10.PNG)
+![](11.PNG)
+![](12.PNG)
