@@ -13,3 +13,8 @@
 ###臨時：
 ```PATH=$PATH: 你的arm-elf-*所在路徑，就是foo/bin的路徑```
 ###登入時自動設定：
+打開編輯器，編輯 ```~/.bashrc```
+<br/>例：<br/>
+```vim ~/.bashrc```<br/>
+在檔案最尾端加入：<br/>
+```export PATH=$PATH:你的foo/bin路徑```
