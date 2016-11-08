@@ -10,4 +10,5 @@
 * [附錄2：基本VIM 操作](BASIC_VIM.md)
 * [主題一：環境建置與安裝](Main1.md)
    * 1-1. 使用VirtualBox
+   * 1-2. 安裝Ubuntu
 
