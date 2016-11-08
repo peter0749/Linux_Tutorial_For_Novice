@@ -3,7 +3,7 @@
 ##安裝與移除
 安裝：```sudo dpkg -i 你的deb包.deb```<br/>
 移除：```sudo dpkg -r 你的deb_Package名稱```<br/>
-清理設定檔：```sudo dpkg 你的deb_Package名稱 --purge```<br/>
+清理設定檔：```sudo dpkg --purge 你的deb_Package名稱```<br/>
 ##察看.deb包詳細資訊
 察看.deb 資訊：```sudo dpkg -I 你的deb包.deb```<br/>
 以網路上的steam 包為例：<br/>
