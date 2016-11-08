@@ -10,5 +10,5 @@
    * [第五章：安裝組語需要的Toolchains (Easy way)](Arm_elf_Toolchain_INSTALL.md)
    * [附錄1：基本Bash 操作](Basic_bash.md)
    * [附錄2：基本VIM 操作](BASIC_VIM.md)
-* 單元二：安裝不在預設Repository 的軟體
+* [單元二：安裝不在預設Repository 的軟體](dan_yuan_erff1a_an_zhuang_bu_zai_yu_she_repository.md)
 
