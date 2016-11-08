@@ -1,4 +1,5 @@
 # 第四章：基本開發環境建置
+使用apt-get 取得套件：```sudo apt-get install 套件名稱```
 
 ## 1. 安裝 build-essential 套件
 ```sudo apt-get install build-essential```<br/>
