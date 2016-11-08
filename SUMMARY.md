@@ -13,5 +13,5 @@
 * [單元二：安裝不在預設Repository 的軟體](dan_yuan_erff1a_an_zhuang_bu_zai_yu_she_repository.md)
    * [第一章：使用 .deb 包](di_yi_zhang_ff1a_shi_yong__deb_bao.md)
    * [第二章：使用Tarball 從原始碼編譯](di_er_zhang_ff1a_shi_yong_tarball_cong_yuan_shi_ma.md)
-   * 第三章：使用PPA
+   * [第三章：使用PPA](di_san_zhang_ff1a_shi_yong_ppa.md)
 
