@@ -8,7 +8,7 @@
 * [第五章：安裝組語需要的Toolchains (Easy way)](Arm_elf_Toolchain_INSTALL.md)
 * [附錄1：基本Bash 操作](Basic_bash.md)
 * [附錄2：基本VIM 操作](BASIC_VIM.md)
-* [主題一：環境建置與安裝](Main1.md)
+* [主題一：環境建置與安裝](chapter1.md)
    * 1-2. 安裝Ubuntu
    * 1-3. 安裝好系統後的第一步
    * 1-4. 基本開發環境設置
