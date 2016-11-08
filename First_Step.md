@@ -22,10 +22,10 @@ Ubuntu 與Debian類似，使用 apt-get 來下載、管理、更新套件(Packag
 安裝好後，之後系統開機，會自動啟動SSH 服務(daemon)，我們可以對VirtualBox 做一些設定。(Tricks)
 ### 設定NAT port forwarding 
 #### 1. 設定轉送
-![](22.PNG)
-![](23.PNG)
-![](24.PNG)
+![](images/22.PNG)
+![](images/23.PNG)
+![](images/24.PNG)
 #### 2. WHOA-LA!!!
-![](25.PNG)
-![](26.PNG)
-![](27.PNG)
+![](images/25.PNG)
+![](images/26.PNG)
+![](images/27.PNG)

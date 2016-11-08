@@ -7,7 +7,7 @@
 ##察看.deb包詳細資訊
 察看.deb 資訊：```dpkg -I 你的deb包.deb```<br/>
 以網路上的steam 包為例：<br/>
-![](DEB_info.png)
+![](images/DEB_info.png)
 從**"Package: "**欄位，察看該deb 檔對應的Package 名稱。<br/>
 從**"Version: "**欄位，察看該Package 版本。<br/>
 從**"Depends: "**欄位，差看該Package 相依於哪些套件。

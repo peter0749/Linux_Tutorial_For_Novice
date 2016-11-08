@@ -9,20 +9,20 @@
 
 
 最新的Virtual Box 可以在 [https://www.virtualbox.org/](https://www.virtualbox.org/) 取得，
-![](00.PNG)
+![](images/00.PNG)
 選擇要使用的作業系統版本，[點擊](http://download.virtualbox.org/virtualbox/5.1.8/VirtualBox-5.1.8-111374-Win.exe)下載。
 
 ### 安裝
 
-![](01.PNG)
+![](images/01.PNG)
 
 ## 在VirtualBox 上新增虛擬機器：
 
 ### 新增一個虛擬機器
-![](06.PNG)
-![](07.PNG)
-![](08.PNG)
-![](09.PNG)
-![](10.PNG)
-![](11.PNG)
-![](12.PNG)
+![](images/06.PNG)
+![](images/07.PNG)
+![](images/08.PNG)
+![](images/09.PNG)
+![](images/10.PNG)
+![](images/11.PNG)
+![](images/12.PNG)
