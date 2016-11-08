@@ -11,4 +11,5 @@
    * [附錄1：基本Bash 操作](Basic_bash.md)
    * [附錄2：基本VIM 操作](BASIC_VIM.md)
 * [單元二：安裝不在預設Repository 的軟體](dan_yuan_erff1a_an_zhuang_bu_zai_yu_she_repository.md)
+   * 第一章：使用 .deb 包
 
