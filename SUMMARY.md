@@ -9,6 +9,5 @@
 * [附錄2：基本VIM 操作](BASIC_VIM.md)
 * [主題一：系統環境與建置](Main1.md)
    * [第一章：使用VirtualBox](chapter1.md)
-   * add1
    * add2
 
