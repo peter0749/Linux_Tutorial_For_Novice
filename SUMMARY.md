@@ -7,6 +7,6 @@
 * [附錄2：基本VIM 操作](BASIC_VIM.md)
 * [主題一：系統環境與建置](Main1.md)
    * [第一章：使用VirtualBox](chapter1.md)
-   * [第三章：安裝好系統後的第一步](First_Step.md)
    * [第二章：安裝Ubuntu](Ubuntu_Install.md)
+   * [第三章：安裝好系統後的第一步](First_Step.md)
 
