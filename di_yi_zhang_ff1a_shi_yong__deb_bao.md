@@ -11,6 +11,9 @@
 從**"Package: "**欄位，察看該deb 檔對應的Package 名稱。<br/>
 從**"Version: "**欄位，察看該Package 版本。<br/>
 從**"Depends: "**欄位，差看該Package 相依於哪些套件。
+##列出所有已安裝的Packages 
+```dpkg --list```<br/>
+
 ##重設特定Package 設定檔
 指令：<br/><br/>
 ```sudo dpkg-reconfigure 套件名稱```
