@@ -15,6 +15,6 @@
    * [第二章：使用Tarball 從原始碼編譯](di_er_zhang_ff1a_shi_yong_tarball_cong_yuan_shi_ma.md)
    * [第三章：使用PPA](di_san_zhang_ff1a_shi_yong_ppa.md)
    * [第四章：手動增加repository 來源](di_si_zhang_ff1a_shou_dong_zeng_jia_repository_lai.md)
-* [主題三：組合語言](zhu_ti_san_ff1a_zu_he_yu_yan.md)
+* [主題三：組合語言 (arm-elf)](zhu_ti_san_ff1a_zu_he_yu_yan.md)
    * 單元一、資料處理指令
 
