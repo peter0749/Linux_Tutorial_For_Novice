@@ -20,6 +20,6 @@
    * [第四章：手動增加repository 來源](di_si_zhang_ff1a_shou_dong_zeng_jia_repository_lai.md)
 * [主題三：組合語言 (arm-elf)](zhu_ti_san_ff1a_zu_he_yu_yan.md)
    * [第一章：資料處理指令](di_yi_zhang_3001_zi_liao_chu_li_zhi_ling.md)
-   * [第二章、資料傳輸指令](di_er_zhang_3001_zi_liao_chuan_shu_zhi_ling.md)
+   * [第二章：資料傳輸指令](di_er_zhang_3001_zi_liao_chuan_shu_zhi_ling.md)
    * [第三章、流程控制指令](di_san_zhang_3001_liu_cheng_kong_zhi_zhi_ling.md)
 
