@@ -10,7 +10,7 @@
    * [第五章：安裝組語需要的Toolchains (Easy way)](Arm_elf_Toolchain_INSTALL.md)
 * [主題二：Linux 環境的使用](zhu_tier_ff1a_linux_huan_jing_de_shi_yong.md)
    * [第一章：基本Bash 操作](Basic_bash.md)
-   * [附錄2：基本VIM 操作](BASIC_VIM.md)
+   * [第二章：基本VIM 操作](BASIC_VIM.md)
    * [附錄3：apt-get 指令](fu_lu_3__apt_-_get_zhi_ling.md)
    * [附錄4：grep 指令](fu_lu_4__grep_zhi_ling.md)
    * [附錄5：重導與管線命令](fu_lu_5_ff1a_zhong_dao_yu_guan_xian_ming_ling.md)
