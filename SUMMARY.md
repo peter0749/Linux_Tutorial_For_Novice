@@ -15,7 +15,7 @@
        * [6-3：使用PPA](di_san_zhang_ff1a_shi_yong_ppa.md)
        * [6-4：手動增加repository 來源](di_si_zhang_ff1a_shou_dong_zeng_jia_repository_lai.md)
 * [主題二：Linux/Unix 環境的使用](zhu_tier_ff1a_linux_huan_jing_de_shi_yong.md)
-   * [第一章：基本Bash 操作](Basic_bash.md)
+   * [第二章：基本Bash 操作](Basic_bash.md)
    * [第二章：基本VIM 操作](BASIC_VIM.md)
    * [第三章：apt-get 指令](fu_lu_3__apt_-_get_zhi_ling.md)
    * [第四章：grep 指令](fu_lu_4__grep_zhi_ling.md)
