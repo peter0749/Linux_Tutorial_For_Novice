@@ -6,7 +6,8 @@ grep 是GNU 提供的一個系統工具(utility)，可以在文件中尋找、�
 
 舉例來說：我要在下面的文件中搜尋"abc"，abc的位置在行中的哪裡不重要，文件名為"test.txt"
 
-```abc
+```
+abc
 def
 defab
 abdef
