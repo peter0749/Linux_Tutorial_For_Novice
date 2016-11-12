@@ -20,12 +20,14 @@ abc
 abcdef
 defabc
 ```
-符合我們所期望的結果。
+符合我們期望的結果。
 
-輸入 `grep "^abc" test.txt`，會輸出：
+輸入 `grep "^abc" test.txt`，意思是只取以"abc"開頭的行，會輸出：
 ```
 abc
 abcdef
 ```
+
+符合
 
 
