@@ -20,14 +20,14 @@ abc
 abcdef
 defabc
 ```
-符合我們期望的結果。
+
 
 輸入 `grep "^abc" test.txt`，意思是只取以"abc"開頭的行，會輸出：
 ```
 abc
 abcdef
 ```
-
-符合
+為什麼會有不同結果？這要講到非常常見的「正則表達式(regex)」。
+##什麼是正則表達式(regex)
 
 
