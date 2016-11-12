@@ -11,7 +11,7 @@
    * [第六章：安裝不在預設Repository 的軟體](dan_yuan_erff1a_an_zhuang_bu_zai_yu_she_repository.md)
        * [6-1：使用 .deb 包](di_yi_zhang_ff1a_shi_yong__deb_bao.md)
        * [6-2：使用Tarball 從原始碼編譯](di_er_zhang_ff1a_shi_yong_tarball_cong_yuan_shi_ma.md)
-       * [第三章：使用PPA](di_san_zhang_ff1a_shi_yong_ppa.md)
+       * [6-3：使用PPA](di_san_zhang_ff1a_shi_yong_ppa.md)
        * [第四章：手動增加repository 來源](di_si_zhang_ff1a_shou_dong_zeng_jia_repository_lai.md)
 * [主題二：Linux 環境的使用](zhu_tier_ff1a_linux_huan_jing_de_shi_yong.md)
    * [第一章：基本Bash 操作](Basic_bash.md)
