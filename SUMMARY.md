@@ -21,6 +21,7 @@
    * [第五章：grep 指令](fu_lu_4__grep_zhi_ling.md)
    * [第六章：重導與管線命令](fu_lu_5_ff1a_zhong_dao_yu_guan_xian_ming_ling.md)
    * [第七章：檔案系統 (File System)](di_liu_zhang_ff1a_dang_an_xi_tong__file_system.md)
+   * 第一章：什麼是Linux？什麼是Unix？
 * [主題三：組合語言 (arm-elf)](zhu_ti_san_ff1a_zu_he_yu_yan.md)
    * [第一章：資料處理指令](di_yi_zhang_3001_zi_liao_chu_li_zhi_ling.md)
    * [第二章：資料傳輸指令](di_er_zhang_3001_zi_liao_chuan_shu_zhi_ling.md)
