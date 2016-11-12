@@ -16,4 +16,4 @@
 
 ##重設特定Package 設定檔
 指令：<br/><br/>
-```sudo dpkg-reconfigure 套件名稱```
+```sudo dpkg-reconfigure <套件名稱>```
