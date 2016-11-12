@@ -1,4 +1,4 @@
-# 附錄3：apt-get 指令
+# 第三章：apt-get 指令
 ###尋找套件
 `sudo apt-cache search <字串>`
 
