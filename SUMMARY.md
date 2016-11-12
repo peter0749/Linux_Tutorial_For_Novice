@@ -2,6 +2,7 @@
 
 * [前言](README.md)
 * [目錄](SUMMARY.md)
+   * 主題二：Linux 環境的使用
 * [主題一：系統環境與建置](Main1.md)
    * [第一章：使用VirtualBox](chapter1.md)
    * [第二章：安裝Ubuntu](Ubuntu_Install.md)
