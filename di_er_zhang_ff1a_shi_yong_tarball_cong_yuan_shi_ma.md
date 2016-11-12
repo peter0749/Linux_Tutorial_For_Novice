@@ -26,15 +26,23 @@ Tarball 簡單來說，就是程式的作者開放供人們參考、使用的原
 
 `cd <你的Tarball 資料夾>`
 
-在Tarball 外面，建一個用來存放編譯過程檔案的資料夾：
+在Tarball 裡面，建一個用來存放編譯過程檔案的資料夾：
 
-`mkdir ../build`
+`mkdir build`
+
+然後進入該資料夾
+
+`cd build`
 
 設定好後，使用：
 
-`cmake ../build`
+`cmake ../`
 
 編譯
+
+然後再
+
+`make`
 
 然後安裝：
 
