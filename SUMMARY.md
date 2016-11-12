@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* 關於作者
+* [關於作者](guan_yu_zuo_zhe.md)
 * [目錄](SUMMARY.md)
 * [主題一：Linux 系統環境建置](Main1.md)
    * [第一章：使用VirtualBox](chapter1.md)
