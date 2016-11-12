@@ -39,6 +39,8 @@ Tarball 簡單來說，就是程式的作者開放供人們參考、使用的原
 然後安裝：
 
 `make install`
+
+這樣比較不會汙染到Tarball 底下的資料。
 ## Troubleshooting
 1. 參閱作者的README/INSTALL，看看自己是否漏掉了什麼步驟。
 2. 檢查相依性，是否系統有什麼軟體/ 套件/ Library 跟要安裝的Tarball 衝突，並解決它。如果覺得太過麻煩，建議去尋找替代方案，或換一個環境試試看。
