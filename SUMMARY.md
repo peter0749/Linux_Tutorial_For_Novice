@@ -11,7 +11,6 @@
    * [附錄1：基本Bash 操作](Basic_bash.md)
    * [附錄2：基本VIM 操作](BASIC_VIM.md)
    * [附錄3：apt-get 指令](fu_lu_3__apt_-_get_zhi_ling.md)
-       * 附錄4：grep 使用
 * [主題二：安裝不在預設Repository 的軟體](dan_yuan_erff1a_an_zhuang_bu_zai_yu_she_repository.md)
    * [第一章：使用 .deb 包](di_yi_zhang_ff1a_shi_yong__deb_bao.md)
    * [第二章：使用Tarball 從原始碼編譯](di_er_zhang_ff1a_shi_yong_tarball_cong_yuan_shi_ma.md)
