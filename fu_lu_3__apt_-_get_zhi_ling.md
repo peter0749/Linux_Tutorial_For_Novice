@@ -1,4 +1,8 @@
 # 附錄3：apt-get 指令
+###尋找套件
+`sudo apt-cache search <字串>`
+
+會列出符合字串的搜尋結果。可以結合`grep`使用。
 ###安裝
 
 `sudo apt-get install <套件名>`
