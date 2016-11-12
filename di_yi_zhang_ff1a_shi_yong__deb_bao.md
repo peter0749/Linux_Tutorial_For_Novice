@@ -1,9 +1,9 @@
 # 6-1：使用 .deb 包
 在這裡暫時先示範幾個常見的指令
 ##安裝與移除
-安裝：```sudo dpkg -i 你的deb包.deb```<br/>
-移除：```sudo dpkg -r 你的deb_Package名稱```<br/>
-清理設定檔：```sudo dpkg --purge 你的deb_Package名稱```<br/>
+安裝：```sudo dpkg -i <你的deb包.deb>```<br/>
+移除：```sudo dpkg -r <你的deb_Package名稱>```<br/>
+清理設定檔+移除套件：```sudo dpkg --purge <你的deb_Package名稱>```<br/>
 ##察看.deb包詳細資訊
 察看.deb 資訊：```dpkg -I 你的deb包.deb```<br/>
 以網路上的steam 包為例：<br/>
