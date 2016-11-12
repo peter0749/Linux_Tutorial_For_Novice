@@ -1,5 +1,5 @@
 # 第四章：基本開發環境建置
-使用apt-get 取得套件：```sudo apt-get install 套件名稱```
+使用apt-get 取得套件：```sudo apt-get install <套件名稱>```
 
 ## 1. 安裝 build-essential 套件
 ```sudo apt-get install build-essential```<br/>
@@ -17,7 +17,7 @@ build-essential 題供了基本的make 與 gcc、g++ 等工具，對於C/C++ 有
 ## 5. 安裝wget 與 curl 作為下載工具
 ```sudo apt-get install wget curl```<br/>
 可以使用wget 與 curl 在終端機中下載網路上的檔案。
-例：<br/><br/>```wget 你的連結``` <br/>或是 <br/>```curl 你的連結 -o 下載檔案目的地```
+例：<br/><br/>```wget <你的連結>``` <br/>或是 <br/>```curl <你的連結> -o <下載檔案目的地>```
 ## 6. 安裝編輯器
 **Vim:** <br/>```sudo apt-get install vim```(無python插件支援)<br/>```sudo apt-get install vim-nox```(有python插件支援)<br/><br/>
 **CodeBlocks:** <br/>```sudo apt-get install codeblocks```
