@@ -1,4 +1,28 @@
 # 附錄3：apt-get 指令
+###安裝
 
-`sudo apt-get `
+`sudo apt-get install <套件名>`
+
+可以使用 `--reinstall`參數來指定要重新安裝。
+###移除
+`sudo apt-get remove <套件名>`
+
+可搭配 --purge 使用，順便移除設定檔。
+
+`sudo apt-get --purge remove <套件名>`
+###移除無關緊要的套件
+`sudo apt-get autoremove`
+
+會移除過去為了相依性，臨時安裝的套件。要謹慎使用。
+
+可以結合 `--purge`清理設定檔，也可以在後面加上套件名稱。
+###清理
+`sudo apt-get clean`
+
+會清除之前下載的.deb 包
+
+`sudo apt-get autoclean`
+
+會清除已過期的.deb 包
+
 
