@@ -1,6 +1,7 @@
 # Summary
 
 * [前言](README.md)
+* 關於作者
 * [目錄](SUMMARY.md)
 * [主題一：Linux 系統環境建置](Main1.md)
    * [第一章：使用VirtualBox](chapter1.md)
@@ -24,5 +25,4 @@
    * [第一章：資料處理指令](di_yi_zhang_3001_zi_liao_chu_li_zhi_ling.md)
    * [第二章：資料傳輸指令](di_er_zhang_3001_zi_liao_chuan_shu_zhi_ling.md)
    * [第三章：流程控制指令](di_san_zhang_3001_liu_cheng_kong_zhi_zhi_ling.md)
-* 關於作者
 
