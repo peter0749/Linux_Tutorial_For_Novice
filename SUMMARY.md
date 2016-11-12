@@ -1,6 +1,7 @@
 # Summary
 
 * [前言](README.md)
+   * 主題二：Linux 環境的使用
 * [目錄](SUMMARY.md)
    * 主題二：Linux 環境的使用
 * [主題一：系統環境與建置](Main1.md)
