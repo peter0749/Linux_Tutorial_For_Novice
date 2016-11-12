@@ -24,5 +24,10 @@
 `sudo apt-get autoclean`
 
 會清除已過期的.deb 包
+###修復相依性
+不一定有用，但是在裝到壞掉的.deb 包時，很好用。
 
+`sudo apt-get -f install`
+
+會自動移除/安裝一些套件，來修復相依性。要謹慎使用。
 
